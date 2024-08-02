@@ -1,0 +1,21 @@
+OrderID,Product,Category,Subcategory,OrderDate,Region,CustomerName,CustomerAddress,Location,Latitude,Longitude,Total Cost,Selling price,QuantitySold,Total revenue,Total Profit
+1001,iPhone 13,Electronics,Mobile,15/01/2023,North,John Smith,123 Baker Street,Manchester,53.483959,-2.244644,500,750,1,750,250
+1002,MacBook Pro,Electronics,Laptop,18/01/2023,South,Jane Doe,456 Elm Street,London,51.507351,-0.127758,3000,2250,2,4500,1500
+1003,Ergonomic Chair,Furniture,Chair,20/01/2023,East,Michael Johnson,789 Oak Street,Norwich,52.630881,1.297356,2250,1125,3,3375,1125
+1004,BIC Pen,Office Supplies,Pen,22/01/2023,West,Sarah Brown,321 Pine Street,Bristol,51.454514,-2.58791,800,300,4,1200,400
+1005,iPad Air,Electronics,Tablet,25/01/2023,North,David Wilson,654 Maple Street,Leeds,53.800755,-1.549077,300,450,1,450,150
+1006,Standing Desk,Furniture,Desk,28/01/2023,South,Emma Davis,987 Cedar Street,Southampton,50.9097,-1.404351,1800,1350,2,2700,900
+1007,Moleskine Notebook,Office Supplies,Notebook,01/02/2023,East,Liam White,159 Birch Street,Cambridge,52.205337,0.121817,500,150,5,750,250
+1008,"Samsung 55"" TV",Electronics,TV,03/02/2023,West,Olivia Harris,753 Spruce Street,Exeter,50.7226,-3.5339,1200,1800,1,1800,600
+1009,Leather Sofa,Furniture,Sofa,05/02/2023,Central,James Clark,258 Willow Street,Birmingham,52.486244,-1.890401,450,675,1,675,225
+1010,HP LaserJet Printer,Office Supplies,Printer,10/02/2023,Central,Isabella Lewis,357 Ash Street,Coventry,52.405302,-1.1902,1800,900,3,2700,900
+1011,Sony Headphones,Electronics,Headphones,12/02/2023,North,Charlotte Green,876 Cherry Street,Sheffield,53.381129,-1.470085,400,300,2,600,200
+1012,Oak Dining Table,Furniture,Table,15/02/2023,South,Daniel Baker,135 Elm Street,Portsmouth,50.819767,-1.087975,850,1275,1,1275,425
+1013,Staples Stapler,Office Supplies,Stapler,18/02/2023,East,Megan King,246 Pine Street,Ipswich,52.05916,1.155,900,225,6,1350,450
+1014,Canon DSLR Camera,Electronics,Camera,20/02/2023,West,William Turner,357 Oak Street,Plymouth,50.375458,-4.142658,950,1425,1,1425,475
+1015,Steel Filing Cabinet,Furniture,Cabinet,25/02/2023,Central,Emily Scott,468 Cedar Street,Leicester,52.636877,-1.139759,1400,1050,2,2100,700
+1016,Apple Watch,Electronics,Smartwatch,28/02/2023,North,Henry Wright,975 Maple Street,Liverpool,53.408366,-2.991573,900,450,3,1350,450
+1017,Bookshelf,Furniture,Bookshelf,02/03/2023,South,Natalie Evans,654 Elm Street,Oxford,51.754816,-1.254367,400,600,1,600,200
+1018,Sharpie Markers,Office Supplies,Marker,05/03/2023,East,Laura Adams,321 Pine Street,Peterborough,52.573161,-0.237678,1000,150,10,1500,500
+1019,Dell Monitor,Electronics,Monitor,08/03/2023,West,Jack Brown,753 Spruce Street,Bath,51.379034,-2.359163,1200,900,2,1800,600
+1020,Queen Bed,Furniture,Bed,10/03/2023,Central,Lucas Allen,258 Willow Street,Nottingham,52.954784,-1.158108,1200,1800,1,1800,600
